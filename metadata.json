@@ -1,0 +1,6 @@
+{
+  "name": "KinSpend - Collaborative Family Finance & Allowances",
+  "description": "Empowering collaborative family stewardship with shared household budgeting, member allowance cards, and automated balance settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
